@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Energy"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "dfa70a58-5c84-4c5f-a62f-0b0bf2d2a049"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "929f438e-1ac7-4aa3-9ad6-b12bf3cc42b0",
+    "website": "energy-needs-assessment-toolkit"
+  },
+  "course_title": "Energy Needs Assessment Toolkit",
+  "hide_download": true,
+  "course_description": "Understanding the energy needs and market opportunities in the specific off-grid community or region is the first step for effectively selecting and implementing\u00a0the solutions to meet a community's\u00a0energy needs. MIT D-Lab has developed the Energy Assessment Toolkit to guide organizations through the process of gathering the information needed to make informed decisions about what technologies and business models are best suited to meet the specific needs of their community through market-based initiatives.\u00a0\n\nThis toolkit is designed for any organization that has an on\u00ad-the\u00ad-ground presence in an off\u00ad-grid community or region and has the ability to take action based on the opportunities identified. This community-\u00adbased assessment approach is not intended to replace studies that track energy access on a national level or to generate market intelligence reports for external organizations looking to expand their business or programs into new markets.",
+  "department_numbers": [
+    "EC"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.EC-004",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "energy-needs-assessment-toolkit"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Tools"
+  ],
+  "site_uid": "717e12e5-f88e-4e8c-9e0d-5478ec6e5694",
+  "site_short_id": "res.ec-004-spring-2017",
+  "site_url_path": "courses/res-ec-004-energy-needs-assessment-toolkit"
+}
