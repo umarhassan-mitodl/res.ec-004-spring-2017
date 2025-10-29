@@ -7,10 +7,10 @@ file_size: 1033241
 file_type: image/jpeg
 image_metadata:
   caption: 'This resource provides a toolkit for assessing needs in communities around
-    the world. (Image courtesy of [sjgolding](https://flic.kr/p/M3MaYb) on Flickr.
-    License: CC BY.)'
-  credit: 'Image courtesy of [sjgolding](https://flic.kr/p/M3MaYb) on Flickr. License:
-    CC BY.'
+    the world. (Image courtesy of {{% resource_link "ae53b889-188a-41be-bce1-b523d1e1a95a"
+    "sjgolding" %}} on Flickr. License: CC BY.)'
+  credit: 'Image courtesy of {{% resource_link "ae53b889-188a-41be-bce1-b523d1e1a95a"
+    "sjgolding" %}} on Flickr. License: CC BY.'
   image-alt: Image of a windmill in the plains in Africa.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -28,4 +28,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This resource provides a toolkit for assessing needs in communities around the world. (Image courtesy of [sjgolding](https://flic.kr/p/M3MaYb) on Flickr. License: CC BY.)
+This resource provides a toolkit for assessing needs in communities around the world. (Image courtesy of {{% resource_link "ae53b889-188a-41be-bce1-b523d1e1a95a" "sjgolding" %}} on Flickr. License: CC BY.)
